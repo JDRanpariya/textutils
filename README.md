@@ -11,5 +11,5 @@ It's An OpenSource Initiative to come up with the Professional level digital Wri
 - For Backend  - Nodejs and express.js
 - Database     - Mongodb
 
-Help us Build a Tool that will help many others who can't afford such paid services.
+Help us Build a Tool that will help many others who can't afford such paid services and as a inspiration for OpenSource Developers.
 
